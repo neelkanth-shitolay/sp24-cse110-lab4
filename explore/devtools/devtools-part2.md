@@ -1,0 +1,1 @@
+1. The bug in the code is that num1 and num2 are retrieved from the HTML elements as strings, not as numbers. When you use the + operator with strings, it concatenates them instead of adding them mathematically.  
