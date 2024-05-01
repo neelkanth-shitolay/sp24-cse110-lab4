@@ -28,4 +28,8 @@
 
 15. The `==` operator in JavaScript does loose equality comparison, which allows type coercion when the two are different data types. However, the `===` operator performs strict equality comparison without type coercion, ensuring both value and type match.
 
+16. [Link to part2-question16.js](scripts/part2-question16.js)
+
+17. 
+
 
