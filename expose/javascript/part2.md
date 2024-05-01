@@ -1,6 +1,6 @@
 12. Accessing Properties and Methods of the 'student' Object
 
-   a. `student.name`
+   a. `student.name`   
    b. `student['Grad Year']`
    c. `student.greeting()`
    d. `student['Favorite Teacher'].name`
