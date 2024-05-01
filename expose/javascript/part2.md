@@ -31,6 +31,8 @@
 16. [Link to part2-question16.js](part2-question16.js)
 
 
-17. 
+17. Calling `modifyArray([1, 2, 3], doSomething)` applies the `doSomething` function to each element of `[1, 2, 3]`. The `doSomething` function doubles each element. Therefore, the result is `[2, 4, 6]`.
+
+18. [Link to part2-question18.js](part2-question18.js)
 
 
