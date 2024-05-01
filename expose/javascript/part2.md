@@ -35,4 +35,10 @@
 
 18. [Link to part2-question18.js](part2-question18.js)
 
+19. Output:
+    1  
+    4  
+    3  
+    2   
+
 
