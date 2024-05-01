@@ -26,3 +26,5 @@
    - e. `true == 2` - Output: true, Loose equality comparison, where true is coerced to 1 before comparison.
    - f. `true === Boolean(2)` - Output: true, Strict equality comparison, both operands are of the same type and have the same value.
 
+15. The `==` operator in JavaScript does loose equality comparison, which allows type coercion when the two are different data types. However, the `===` operator performs strict equality comparison without type coercion, ensuring both value and type match.
+
