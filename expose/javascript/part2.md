@@ -14,7 +14,7 @@
    d. `'3' + null` - Output: '3null', null coerced to string 'null'.  
    e. `true + 3` - Output: 4, Boolean coerced to number (true -> 1).  
    f. `false + null` - Output: 0, Boolean coerced to number (false -> 0), null coerced to 0.  
-   g. `'3' + undefined` - Output: Explanation: undefined coerced to string 'undefined'.  
+   g. `'3' + undefined` - Output: '3undefined', undefined coerced to string 'undefined'.  
    h. `'3' - undefined` - Output: NaN, String cannot be subtracted from undefined, results in NaN.  
 
 14. Comparison
