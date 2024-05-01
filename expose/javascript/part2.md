@@ -1,9 +1,10 @@
-12. 
-A. student.name 
-B. student['Grad Year']
-C. student.greeting()
-D. student['Favorite Teacher'].name
-E. student.courseLoad[0]
+12. Accessing Properties and Methods of the 'student' Object
+
+   - a. `student.name`
+   - b. `student['Grad Year']`
+   - c. `student.greeting()`
+   - d. `student['Favorite Teacher'].name`
+   - e. `student.courseLoad[0]`
 
 13. Arithmetic
 
